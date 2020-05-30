@@ -42,7 +42,7 @@ copy_overlays()
 copy_notebooks()
 
 setup(
-	name= "Sessio_2",
+	name= "Session_2",
 	version= "1.1",
 	url= 'https://github.com/ATaylorCEngFIET/Concept_to_Prototype_U96-PYNQ',
 	license = 'Apache Software License',
