@@ -7,4 +7,4 @@ To install use the command
 
 This needs  a Ultra96, MIPI interface board and a PCAM5 
 
-![Logo]https://github.com/ATaylorCEngFIET/Concept_to_Prototype_U96-PYNQ/blob/master/Capture.PNG
+![Logo]/Capture.PNG
