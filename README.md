@@ -7,4 +7,4 @@ To install use the command
 
 This needs  a Ultra96, MIPI interface board and a PCAM5 
 
-![Logo]/Capture.PNG
+![Logo](/Capture.PNG)
